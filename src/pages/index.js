@@ -1,0 +1,15 @@
+
+
+export { default as Home } from './Home'
+export { default as Settings } from './Settings'
+export { default as Earnings } from './Earnings'
+export { default as Contact } from './Contact'
+export { default as Services } from './Services'
+export { default as Pricing } from './Pricing'
+export { default as DetailProduct } from './DetailProduct'
+export { default as Cart } from './Cart'
+export { default as Notpage } from './Notpage'
+export { default as Products } from './Products'
+export { default as CategoryProducts } from './CategoryProducts'
+export { default as LogIn } from './LogIn'
+export { default as LogUp } from './LogUp'

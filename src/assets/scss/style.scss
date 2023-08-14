@@ -1,0 +1,26 @@
+.input-quantity::-webkit-outer-spin-button,
+.input-quantity::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+
+}
+
+/* Firefox */
+.input-quantity input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.title-cart {
+    display: block;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    /* số dòng hiển thị */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.border-right {
+    width: 1px;
+    height: 600px;
+}
